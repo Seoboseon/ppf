@@ -53,7 +53,7 @@ Claude Code를 사용하는 경우, 플러그인 마켓플레이스를 통해 �
 
 ## 기여하기
 
-커뮤니티에 있는 모든 분들에게 기여를 환영해요. 아래에 작성되어 있는 기여 가이드를 확인하세요.
+커뮤니티에 있는 모든 분들에게 기여를 환영해요. 아래에 작성되어 있는 기여 가이드를 참고하세요.
 
 [CONTRIBUTING](https://github.com/toss/es-toolkit/blob/main/.github/CONTRIBUTING-ko_kr.md)
 
